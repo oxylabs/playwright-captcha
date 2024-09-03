@@ -2,6 +2,21 @@
 
 This step-by-step tutorial demonstrates how to use Playwright to bypass CAPTCHA challenges using Python. The tutorial will also discuss the perks of using Oxylabs’ Web Unblocker instead of the `playwright-stealth` library. 
 
+  * [1. Install dependencies](#1-install-dependencies)
+  * [2. Import modules](#2-import-modules)
+  * [3. Create a headless browser instance](#3-create-a-headless-browser-instance)
+  * [4. Apply the stealth settings](#4-apply-the-stealth-settings)
+  * [6. Take a screenshot](#6-take-a-screenshot)
+  * [7. Execute and test](#7-execute-and-test)
+- [Bypass CAPTCHA with Web Unblocker](#bypass-captcha-with-web-unblocker)
+  * [1. Create an account](#1-create-an-account)
+  * [2. Create API key](#2-create-api-key)
+  * [3. Install the requests module](#3-install-the-requests-module)
+  * [4. Import the required modules](#4-import-the-required-modules)
+  * [6. Make a request](#6-make-a-request)
+  * [7. Save the response](#7-save-the-response)
+  * [8. Execute and check](#8-execute-and-check)
+
 ### 1. Install dependencies
 Install the Playwright library and the stealth package.
 
