@@ -2,6 +2,8 @@
 
 [![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
+[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/Pds3gBmKMH)
+
 This step-by-step tutorial demonstrates how to use Playwright to bypass CAPTCHA challenges using Python. The tutorial will also discuss the perks of using Oxylabs’ Web Unblocker instead of the `playwright-stealth` library. 
 
   * [1. Install dependencies](#1-install-dependencies)
