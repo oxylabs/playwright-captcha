@@ -1,6 +1,6 @@
 # How to Bypass CAPTCHA With Playwright
 
-[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=playwright-captcha-github&transaction_id=102f49063ab94276ae8f116d224b67)
+[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=github&utm_medium=referral&utm_content=playwright-captcha&utm_campaign=banner&groupid=877)
 
 <p align="left">
   <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
@@ -135,7 +135,7 @@ Note: Executing the code saves the screenshot.
 
 ## Bypass CAPTCHA with Web Unblocker
 
-Oxylabs’ [Web Unblocker](https://oxylabs.io/products/web-unblocker) employs AI techniques to help you access publicly available information behind the CAPTCHA. You just need to send a simple query and Web Unblocker will automatically choose the fastest CAPTCHA proxy, attach all essential headers, and return the response HTML bypassing any anti-bots of the target websites.
+Oxylabs’ [Web Unblocker](https://oxylabs.io/products/web-unblocker?utm_source=github&utm_medium=referral&utm_content=playwright-captcha&groupid=877) employs AI techniques to help you access publicly available information behind the CAPTCHA. You just need to send a simple query and Web Unblocker will automatically choose the fastest CAPTCHA proxy, attach all essential headers, and return the response HTML bypassing any anti-bots of the target websites.
 
 ### 1. Create an account
 To use Web Unblocker, you'll need an active subscription. You can either get a paid plan or a 7-day free trial [here](https://dashboard.oxylabs.io/). 
@@ -224,4 +224,4 @@ with open("result.html", "w") as f:
    f.write(response.text)
 ```
 
-And that's it! For a more detailed tutorial with images, you can check out this [article](https://oxylabs.io/blog/playwright-bypass-captcha). 
+And that's it! For a more detailed tutorial with images, you can check out this [article](https://oxylabs.io/blog/playwright-bypass-captcha?utm_source=github&utm_medium=referral&utm_content=playwright-captcha&groupid=877). 
